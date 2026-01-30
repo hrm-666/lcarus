@@ -1,0 +1,25 @@
+# #忽略所有.o, .crf, .d文件
+# *.o
+# *.crf
+# *.d
+
+# /*
+# !/cmsis/
+# !/driver/
+# !/lib/
+# !/module/
+# !/protocol/
+# !/system/
+# !/rtthread/
+# !/my_lib/
+
+# 不忽略USER目录下的.c，.h文件
+!/user/
+/user/*
+!/user/*.c
+!/user/*.h
+!/user/*.uvguix.*
+!/user/*.uvoptx
+!/user/*.uvprojx
+
+!.gitignore
