@@ -1,6 +1,6 @@
 ## 简介
 
-Perfei-fly项目是本人基于其他开源飞控制作，现已迭代到第五版，重构了整个框架，侧重于学习和开发，并增加了一部分功能。本项目旨在为飞控开发者提供一个入门级的学习模板，降低学习飞控的学习门槛。
+该项目为网上开源无人机项目，本仓库仅用于个人学习修改
 
 ## 说明
 
@@ -22,8 +22,6 @@ Perfei-fly项目是本人基于其他开源飞控制作，现已迭代到第五�
 ```
 
 ## 相关链接
-
-成品购买链接：[链接](https://h5.m.goofish.com/item?forceFlush=1&id=994845221057&ut_sk=1.XoGoF00Rk0QDAA9C2X4dD3LZ_21407387_1763272562519.copy.detail.994845221057.2945000689)
 
 文档仓：[https://gitee.com/gitee_Fei/Perfei-fly_doc](https://gitee.com/gitee_Fei/Perfei-fly_doc)
 
